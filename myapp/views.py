@@ -438,3 +438,4 @@ class BookAppoinmentViewAPI(ListAPIView):
     #         return {'Location': str(data[api_settings.URL_FIELD_NAME])}
     #     except (TypeError, KeyError):
     #         return {}
+
